@@ -1,0 +1,5 @@
+var notes = [
+    {
+        name: ''
+    }
+]

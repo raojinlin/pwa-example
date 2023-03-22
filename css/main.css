@@ -1,0 +1,38 @@
+body {
+    font-size: 14px;
+    width: 990px;
+    margin: auto;
+}
+textarea {
+    width: 100%;
+    margin: auto;
+    display: block;
+    height: 100%;
+    min-height: 500px;
+    padding: 0;
+}
+
+
+.toolbar {
+    margin-bottom: 10px;
+}
+
+.toolbar button {
+    border: 1px solid #999;
+    border-radius: 3px;
+    background: transparent;
+    padding: 5px 25px;
+    transition: 0.3s;
+}
+
+.toolbar button:hover {
+    border-color: #ccc;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+}
